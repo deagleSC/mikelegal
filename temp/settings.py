@@ -124,5 +124,5 @@ STATIC_URL = "static/"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # Add your Mailgun sandbox credentials here
-SMTP_USERNAME = 'postmaster@sandbox6206172573c043e1b5ff2e4af687398a.mailgun.org'
-SMTP_PASSWORD = '054e2ca600c969ced35a0442a83db0d6-7ca144d2-9b2dd121'
+SMTP_USERNAME = ''
+SMTP_PASSWORD = ''
